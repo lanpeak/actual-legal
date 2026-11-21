@@ -6,9 +6,13 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-**Last updated: September 2026**
+**Last updated: November 2026**
 
 This Privacy Policy applies to a private, non-commercial installation of [Actual Budget](https://actualbudget.org/) used for personal or household financial management.
+
+## Operator
+
+The installation is operated privately for personal and household use only. Contact: [doud@rhoas.net](mailto:doud@rhoas.net).
 
 ## Purpose
 
@@ -33,7 +37,7 @@ This information is used solely for personal or household financial administrati
 
 Financial information is stored within the operator's private Actual Budget installation.
 
-The location and infrastructure used to host Actual Budget depend on the individual operator's configuration.
+Actual Budget is self-hosted on a private server owned and controlled by the operator. No third-party cloud hosting provider stores the financial data.
 
 Access to the Actual Budget installation should be restricted to authorized users.
 
@@ -69,14 +73,4 @@ The operator is responsible for securing their Actual Budget installation, hosti
 
 ## Contact
 
-Questions regarding this Privacy Policy or the processing of information through a particular Actual Budget installation should be directed to the operator of that installation.
-
----
-
-## Template Notice
-
-This document is provided as a general template for private, non-commercial Actual Budget installations using Enable Banking.
-
-Operators should review and adapt this document to reflect their own hosting configuration, data processing practices, jurisdiction, and circumstances before using it as their Privacy Policy.
-
-This template does not constitute legal advice.
+Questions regarding this Privacy Policy should be directed to the operator at [doud@rhoas.net](mailto:doud@rhoas.net).

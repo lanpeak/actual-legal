@@ -6,9 +6,13 @@ permalink: /terms-of-use/
 
 # Terms of Use
 
-**Last updated: September 2026**
+**Last updated: November 2026**
 
 These Terms of Use apply to a private, non-commercial installation of [Actual Budget](https://actualbudget.org/) used for personal or household financial management.
+
+## Operator
+
+The installation is operated privately for personal and household use only. Contact: [doud@rhoas.net](mailto:doud@rhoas.net).
 
 ## Private Use
 
@@ -79,14 +83,4 @@ The latest published version applies to the relevant installation.
 
 ## Contact
 
-Questions regarding these Terms of Use should be directed to the operator of the relevant Actual Budget installation.
-
----
-
-## Template Notice
-
-This document is provided as a general template for private, non-commercial Actual Budget installations, including installations using Enable Banking.
-
-Operators should review and adapt this document to reflect their own configuration, services, jurisdiction, and circumstances before publishing or using it.
-
-This template does not constitute legal advice.
+Questions regarding these Terms of Use should be directed to the operator at [doud@rhoas.net](mailto:doud@rhoas.net).
